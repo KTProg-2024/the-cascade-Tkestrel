@@ -1,1 +1,57 @@
+h2{
+  color:green;
+  text-decoration:underline;
+  text-decoration-style:dotted;
+}
 
+p{
+  font-family:times;
+}
+
+.shadow{
+  text-shadow:2px 2px;
+}
+
+.First{
+  text-align:center;
+}
+
+div h2{
+  text-decoration:underline;
+  text-decoration-style:wavy;
+}
+
+#Six{
+  text-align:right;
+}
+
+h2+p{
+  font-weight:bold;
+  color:red;
+  text-decoration:underline;
+}
+
+#One{
+  color:purple;
+  font-style:italic;
+}
+
+p+p{
+  color:orange;
+}
+
+div p+p{
+  color:blue;
+}
+
+.class5{
+  font-family:courier;
+  color:teal;
+}
+
+div{
+  background-color:bisque;
+  border-width:3px;
+  border-color:brown;
+  border-style:solid;
+}
